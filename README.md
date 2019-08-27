@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Revel
 
 A high-productivity web framework for the [Go language](http://www.golang.org/).
@@ -40,4 +41,9 @@ The directory structure of a generated Revel application:
 * The [Revel guides](http://revel.github.io/manual/index.html).
 * The [Revel sample apps](http://revel.github.io/examples/index.html).
 * The [API documentation](https://godoc.org/github.com/revel/revel).
+
+## deal-planner
+
+cd ~/go/src
+git clone git@github.com:deepthinker42/deal-calc.git
 
